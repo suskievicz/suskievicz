@@ -1,0 +1,5 @@
+-# Sobre mim
+- 👋 Hi, I’m @suskievicz
+- 👍 meu e-mail para contato [emaail](vinicius.suskievicz@escola.pr.gov.br).
+- 👀 I’m interested in ... aprender a programar em novas linguagens
+- 🌱 I’m currently learning ...Eu estou aprendendo Java.
